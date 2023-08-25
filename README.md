@@ -8,7 +8,7 @@
 -Passionate about coding and problem-solving.
 <br>
   <br> 
-  <br> <br>
+  
 
 <br>
 <h3 align="left">Connect with me:</h3>
