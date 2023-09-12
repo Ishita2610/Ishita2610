@@ -1,7 +1,7 @@
 
 
 <h1 align="left">Hi there 👋, I'm Ishita Dubey</h1>
-<h3 align="left">An aspiring software developer from India</h3>
+<h3 align="left">An aspiring software developer from New Delhi, India</h3>
 <br>
 -B.Tech CSE final year student. <br>
 -I’m currently learning Spring, Spring boot, android dev. <br>
