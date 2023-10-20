@@ -4,7 +4,7 @@
 <h3 align="left">An aspiring software developer from New Delhi, India</h3>
 <br>
 -B.Tech CSE final year student. <br>
--I’m currently learning Spring, Spring boot, android dev. <br>
+-I’m currently learning Spring, spring boot and DSA. <br>
 -Passionate about coding and problem-solving.
 <br>
   <br> 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ishita dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishita dubey" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ishita__2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishita__2310" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/ishita__2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishita__2310" height="30" width="40" /></a> -->
 </p>
 
 <br> 
